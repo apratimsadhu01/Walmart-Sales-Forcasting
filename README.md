@@ -37,3 +37,8 @@ Walmart Recruiting - Store Sales Forecasting downloaded from https://www.kaggle.
 
 
 ## Machine Learning Models
+- Linear Regression Model
+- Random Forest Regression Model
+- K Neighbors Regression Model
+- XGBoost Regression Model
+- Custom Deep Learning Neural Network
