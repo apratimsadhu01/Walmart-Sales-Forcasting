@@ -1,6 +1,6 @@
 # Walmart-Sales-Forcasting
 
-Datasets
+## Datasets
 Walmart Recruiting - Store Sales Forecasting downloaded from https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 - train.csv - CSV Data file containing following attributes
@@ -9,13 +9,13 @@ Walmart Recruiting - Store Sales Forecasting downloaded from https://www.kaggle.
   - Date
   - Weekly_Sales
   - IsHoliday
-115064 Data rows
+*115064 Data rows*
 
 - stores.csv - CSV Data File containing following attributes
   - Store
   - Type
   - Size
-45 Data rows
+*45 Data rows*
 
 - features.csv - CSV Data file containing following attributes
   - Store
@@ -30,4 +30,7 @@ Walmart Recruiting - Store Sales Forecasting downloaded from https://www.kaggle.
   - CPI
   - Unemployment
   - IsHoliday
-8190 Data rows
+*8190 Data rows*
+
+
+## Machine Learning Models
